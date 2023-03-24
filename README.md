@@ -1,1 +1,2 @@
 # weather-react
+# npm install 
